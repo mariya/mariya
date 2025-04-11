@@ -1,3 +1,3 @@
 ### About
 
-I'm a software developer with over 20 years of experience, currently working on a PhD in bioinformatics with a specialization in machine learning.
+I have been a software engineer for over twenty years. I am currently finishing a PhD in applied machine learning at Uppsala University, using explainable AI to untangle the genetics of childhood leukemia.
